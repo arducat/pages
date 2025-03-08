@@ -1,0 +1,27 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "description": "Просто мой сайт...Тестовый.",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arducat/pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arducat/pages/issues"
+  },
+  "homepage": "https://github.com/arducat/pages#readme",
+  "dependencies": {
+    "next": "^15.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
