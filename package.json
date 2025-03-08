@@ -12,9 +12,8 @@
     "url": "git+https://github.com/arducat/pages.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "arducat",
   "license": "MIT",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/arducat/pages/issues"
   },
